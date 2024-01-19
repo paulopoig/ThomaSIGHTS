@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Datasets</folder>
+	<filename>dataset00651.png</filename>
+	<path>C:\Users\USER\Downloads\Datasets\dataset00651.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>looking at teacher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>9</ymin>
+			<xmax>1004</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>focused</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>5</ymin>
+			<xmax>1008</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>resting their chin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>16</ymin>
+			<xmax>1020</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+</annotation>

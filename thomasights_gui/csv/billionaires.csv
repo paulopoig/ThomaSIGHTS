@@ -1,0 +1,22 @@
+name,rank,year,company,wealth
+Bill Gates,1,1996,Microsoft,18.5
+Bill Gates,1,2001,Microsoft,58.7
+Bill Gates,1,2014,Microsoft,76.0
+Warren Buffett,2,1996,Berkshire Hathaway,15.0
+Warren Buffett,2,2001,Berkshire Hathaway,32.3
+Warren Buffett,2,2014,Berkshire Hathaway,58.3
+Carlos Slim Helu,3,1996,Telmex,1.0
+Carlos Slim Helu,2,2001,Telmex,12.0
+Carlos Slim Helu,2,2014,Telmex,72.0
+Oeri Hoffman and Sacher,4,1996,F. Hoffmann-La Roche,13.1
+Oeri Hoffman and Sacher,4,2001,F. Hoffmann-La Roche,10.1
+Oeri Hoffman and Sacher,4,2014,F. Hoffmann-La Roche,9.1
+Paul Allen,3,1996,Microsoft,30.4
+Paul Allen,4,2001,Microsoft,12.4
+Paul Allen,4,2014,Microsoft,10.4
+Larry Ellison,4,1996,Oracle,1.0
+Larry Ellison,4,2001,Oracle,5.0
+Larry Ellison,4,2014,Oracle,26.0
+Tsai Wan-lin,5,1996,Lin Yuan Group,12.2
+Tsai Wan-lin,5,2001,Lin Yuan Group,18.2
+Tsai Wan-lin,5,2014,Lin Yuan Group,14.2

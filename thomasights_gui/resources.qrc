@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>assets/icons/table.png</file>
+    <file>assets/logo.png</file>
+  </qresource>
+  <qresource prefix="backgrounds">
+    <file>assets/inner_gradient.png</file>
+    <file>assets/inner_gradient2.png</file>
+    <file>assets/gradient_4.png</file>
+    <file>assets/gradient_5.png</file>
+    <file>assets/gradient_3.png</file>
+    <file>assets/gradient.png</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>assets/OpenSans-Regular.ttf</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>assets/icons/history.png</file>
+    <file>assets/icons/file.png</file>
+    <file>assets/icons/file.png</file>
+    <file>assets/icons/caret-down.png</file>
+    <file>assets/icons/camera.png</file>
+    <file>assets/icons/stop.png</file>
+    <file>assets/icons/upload.png</file>
+    <file>assets/icons/minimize.svg</file>
+    <file>assets/icons/view.svg</file>
+    <file>assets/icons/cross-gradient.png</file>
+    <file>assets/icons/cross_2.png</file>
+    <file>assets/icons/expand-arrows_2.png</file>
+    <file>assets/icons/minimize-sign_2.png</file>
+    <file>assets/icons/cross.png</file>
+    <file>assets/icons/burger-bar.png</file>
+    <file>assets/icons/expand-arrows.png</file>
+    <file>assets/icons/minimize-sign.png</file>
+    <file>assets/icons/reject.png</file>
+    <file>assets/icons/apple.png</file>
+    <file>assets/icons/bar-chart.png</file>
+    <file>assets/icons/column.png</file>
+    <file>assets/icons/diagram.png</file>
+    <file>assets/icons/frame.png</file>
+    <file>assets/icons/lightbulb.png</file>
+    <file>assets/icons/line-chart.png</file>
+  </qresource>
+</RCC>

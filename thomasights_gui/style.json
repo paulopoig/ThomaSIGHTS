@@ -1,0 +1,92 @@
+{
+  "QMainWindow":[
+    {
+      "tittle":"ThomaSIGHTS",
+      "icon":"C:\\Program Files\\DeepSORT Files\\ThomaSIGHTS\\thomasights_gui\\assets\\icons\\view.svg",
+      "frameless": true,
+      "translucentBg": true,
+      "sizeGrip":"size_grip",
+      "shadow": [
+        {
+          "color":"#fff",
+          "blurRadius": 20,
+          "xOffset": 0,
+          "yOffset": 0,
+          "centralWidget":"centralwidget"
+        }
+      ],
+      "navigation":[
+        {
+          "minimize":"minimize_window_button",
+          "close":"close_window_button",
+          "restore": [
+            {
+              "buttonName":"restore_window_button",
+              "normalIcon":":/icons/assets/icons/expand-arrows.png",
+              "maximizedIcon":":/icons/assets/icons/minimize.svg"
+            }
+          ],
+          "moveWindow":"header_frame",
+          "titleBar":"header_frame"
+        }
+      ]
+    }
+  ],
+  "QStackedWidget":[
+    {
+     "name":"stackedWidget",
+      "transitionAnimation":[
+        {
+          "slide":[
+            {
+              "active": true,
+              "duration": 1000,
+              "direction":"horizontal",
+              "easingCurve":"Linear"
+            }
+          ]
+        }
+      ],
+      "navigation":[
+        {
+          "navigationButtons":[
+            {
+              "detection_btn": "detection",
+              "bar_graph_btn": "bar_graph",
+              "nested_donuts_btn": "nested_donuts",
+              "line_chart_btn": "line_chart",
+              "hybrid_graph_btn": "hybrid_graph",
+              "prediction_btn": "prediction"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "QCustomSlideMenu": [{
+    "name": "left_menu_widget",
+    "defaultSize": [{
+      "width": 0,
+      "height": "parent"
+    }],
+    "collapsedSize": [{
+      "width": 0,
+      "height": "parent"
+    }],
+    "expandedSize": [{
+      "width": 250,
+      "height": "parent"
+    }],
+    "toggleButton": [{
+      "buttonName": "open_close_bar_btn",
+      "icons": [{
+        "whenMenuIsCollapsed": ":/icons/assets/icons/burger-bar.png",
+        "whenMenuIsExpanded": ":/icons/assets/icons/burger-bar.png"
+      }]
+    }],
+    "menuTransitionAnimation": [{
+      "animationDuration": 500,
+      "animationEasingCurve": "Linear"
+    }]
+  }]
+}
