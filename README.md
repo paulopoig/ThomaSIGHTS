@@ -99,7 +99,7 @@ To build ThomaSIGHTS' system application technological architecture, the develop
 * Dynamically adjust lesson content and delivery to cater to diverse learning preferences.
 
 
-<!-- TEAM BEHIND PATRICK'S PIZZA -->
+<!-- TEAM BEHIND THOMASIGHTS -->
 ## Team Behind ThomaSIGHTS
 * <strong>Paulo Danque</strong> - Lead Front End and Back End Developer, Assistant in Documentation
 * Genevieve Carranza - Project Manager, Documentation, and Business Analyst
@@ -109,4 +109,10 @@ To build ThomaSIGHTS' system application technological architecture, the develop
 ## Contact
 If you have any questions about this project or would like to use this framework for your use case, please feel free to contact me at:
 Paulo Danque - paulobrave17@gmail.com
+
+A quick note: certain essential assets, including the training model and specific frameworks for ThomaSIGHTS, are currently unavailable here. As a result, the application may be rendered unusable in certain cases. Notably, the size of these assets, particularly the training model and certain components of ToothVision, surpasses 100 MB, leading to their restriction by Github.
+
+ThomaSIGHTS is currently in the early Alpha development stages, so the files represent only a small portion of the envisioned system capabilities. For the most up-to-date information on the status of ThomaSIGHTS and its ongoing development, please feel free to contact me directly.
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
