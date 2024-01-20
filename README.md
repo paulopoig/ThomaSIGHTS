@@ -1,13 +1,17 @@
 <!-- PROJECT LOGO -->
 
-  ![MasterHead](https://github.com/paulopoig/Patrick-s-Pizza-/assets/78188625/99a0a84d-9c42-4d47-b6cb-2d29817883c8)
-  
+  ![MasterHead](https://github.com/paulopoig/ThomaSIGHTS/assets/78188625/62df3cef-422d-4fe7-9e8b-946367249cba)
+
   <h1 align="center">ThomaSIGHTS</h1>
 
   <p align="center">
     A System Application That Leverages Multiple Machine Learning Algorithms in Aiding Teachers Tailor Their Teaching Methods to Maximize Learning Outcomes of Nursery Students Due to Different Learning Styles Composition In a Classroom
     <br />
-    <a href="https://drive.google.com/file/d/1_L7OybnA2S8fX3pGKmELN7BRXFXjkhTe/view?usp=sharing"><strong>See Documentation</strong></a>
+    <a href="https://drive.google.com/file/d/1eMTATyIK4Uh_Yl0GJzQ8yhgtqbF75fE_/view?usp=sharing"><strong>See Documentation</strong></a>
+    .
+    <a href="https://youtu.be/7aUmeoz8KrI?si=hRX5-aCnJxkqTe42"><strong>Watch System Demo</strong></a>
+    .
+    <a href="https://youtu.be/gW8eqQgLIYc?si=w6pWKs6iOpxIGV27"><strong>Watch ThomaSIGHTS' Ad</strong></a>
     <br />
     <br />
    
@@ -35,75 +39,74 @@ The core goal is an easy-to-use automated toolkit that eliminates pain points, a
 
 ## Built With
 
-To build Patrick's Pizza Website's technological architecture, the developer leveraged various versatile and high-performing frameworks and software libraries, including:
+To build ThomaSIGHTS' system application technological architecture, the developer leveraged various versatile and high-performing frameworks and software libraries, including:
 
-* ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-* ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+* ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+* ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+* ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+* ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+* ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+* ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+* ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+* ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+* ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- SYSTEM FEATURES -->
-## 1. User Registration and Profiles:
+## System Features
 
-* Allow users to create accounts and save their preferences.
-* Enable order history tracking and quick reordering for registered users.
+### 1. Real-time Body Language Detection:
+* Implement YOLO algorithm for real-time detection of body language cues in nursery students.
+* Detect gestures, facial expressions, and postures to understand engagement levels.
+### 2. Deepsort Tracking System:
+* Utilize the deepsort algorithm for accurate and robust tracking of individual students in the classroom.
+* Ensure consistent tracking for reliable data collection.
+### 3. Data Collection and Logging:
+* Gather data on body language cues from each student during class sessions.
+* Log timestamped information for future analysis.
+### 4. Random Forest Learning Style Prediction:
+* Employ a random forest algorithm to analyze the gathered data.
+* Predict the predominant learning styles (Auditory, Visual, Kinesthetic) for each student in the nursery classroom.
+### 5. Graphical Presentation:
+* Generate graphical representations (e.g., pie charts, bar graphs) illustrating the distribution of learning styles in the classroom.
+* Provide an overview of the prevalent learning styles and their percentages.
+### 6. Teacher Dashboard:
+* Design a user-friendly dashboard for teachers to access and interpret the data easily.
+* Display real-time and historical insights into students' learning styles.
+### 7. Individual Student Profiles:
+* Create individual profiles for each student, highlighting their learning style percentages.
+* Offer a comprehensive view of the students' preferences over time.
+### 8. Visualized Reasons Analysis:
+* Provide visualized reasons behind the predicted learning styles.
+* Use charts or graphs to illustrate correlations between body language cues and learning preferences.
+### 9. Hybrid Filtering Technique:
+* Implement a hybrid filtering technique to tailor teaching methods based on predicted learning styles.
+* Combine collaborative, content-based, and demographic filtering to offer personalized suggestions.
+### 10. Teaching Method Recommendations:
+* Offer dynamic teaching method recommendations for each student based on their learning style.
+* Provide a variety of suggested activities, materials, and engagement strategies.
+### 11. Performance Tracking:
+* Enable teachers to track the impact of suggested teaching methods on student performance.
+* Monitor changes in engagement and comprehension levels over time.
+### 12. Adaptive Lesson Plans:
+* Integrate the predicted learning styles into adaptive lesson planning.
+* Dynamically adjust lesson content and delivery to cater to diverse learning preferences.
 
-## 2. Menu Display:
-
-* Showcase the full menu with detailed descriptions, prices, and images of different pizza varieties.
-* Include customization options for toppings, crust types, and sizes.
-
-## 3. Ordering System:
-
-* Implement an intuitive and user-friendly ordering system.
-* Provide a step-by-step process for customization, adding to cart, and finalizing the order.
-
-## 4. Promotions and Specials:
-
-* Highlight ongoing promotions, discounts, and combo deals.
-* Allow the application of coupon codes or discounts during the ordering process.
-
-## 5. Location-Based Services:
-
-* Integrate a location-based system for users to find the nearest franchise or delivery location.
-* Offer delivery, pickup, and dine-in options with specific time slots.
-
-## 6. Delivery Tracking:
-* Provide real-time tracking of delivery orders.
-* Notify customers about the status of their order, including preparation, dispatch, and estimated delivery time.
-
-## 7. Integration with POS System:
-
-* Integrate the e-commerce platform with the franchise's Point-of-Sale (POS) system for efficient order processing.
-
-## 8. Payment Options:
-
-* Support various payment methods, including credit/debit cards, digital wallets, and cash on delivery.
-
-## 9. Feedback and Reviews:
-
-* Enable customers to leave reviews and ratings for both products and services.
-* Use feedback to improve the quality of offerings and customer satisfaction.
 
 <!-- TEAM BEHIND PATRICK'S PIZZA -->
-## Team Behind Patrick's Pizza
-* <strong>Paulo Danque</strong> - Project Manager and Lead Front End and Back End Developer
-* Shellamie Akmad - Documentation
-* Alexandra Jane Arivas - Documentation
-* Jannah Mae Eugenio - Business Analyst
-* Renee Alynn Maglonzo - System Analyst
-* Jasmine Lianne Mangalindan - Documentation
-* Hanna Paraiso - Documentation
+## Team Behind ThomaSIGHTS
+* <strong>Paulo Danque</strong> - Lead Front End and Back End Developer, Assistant in Documentation
+* Genevieve Carranza - Project Manager, Documentation, and Business Analyst
+* Shellamie Akmad - Documentation and System Analyst
 
 <!-- CONTACT -->
 ## Contact
 If you have any questions about this project or would like to use this framework for your use case, please feel free to contact me at:
 Paulo Danque - paulobrave17@gmail.com
-
-I'm happy to provide more details on the implementation, assist with adapting it to your needs, or discuss any other aspects of Patrick's Pizza. Your feedback is also welcome as it will help strengthen and extend this e-commerce platform to best serve delightful pizzas across various places in Tondo, Manila. Please reach out anytime.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
