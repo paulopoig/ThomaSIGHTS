@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<a href="https://www.behance.net/gallery/189594395/ThomaSIGHTS"><img src="https://github.com/paulopoig/ThomaSIGHTS/assets/78188625/b8c7ad8d-2a61-497e-9b31-6b6c3a89986f" alt="ThomaSIGHTS System Application Showcase"></a>
 
 ThomaSIGHTS represents my most ambitious undertaking yet - developed as my capstone thesis project with the intent of creating an AI system to address major societal issues. The core objectives were twofold: leverage complex artificial intelligence techniques not commonly implemented, and provide impactful solutions that could drive positive change.
 
